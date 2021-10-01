@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Distance.h(19,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Distance.h(22,1): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Distance.h(31,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Distance.h(34,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Source.cpp(181,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\aser\Downloads\OOP_MD_1\OOP_MD_1\Source.cpp(208,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOP_MD_1.vcxproj -> C:\Users\aser\Downloads\OOP_MD_1\Debug\OOP_MD_1.exe
